@@ -1,6 +1,7 @@
 /*universal styles*/
 html {
 	font-family: Verdana;
+	background-color: black
 }
 
 header,main {
@@ -8,6 +9,27 @@ header,main {
 }
 
 /*header*/
+h1 {
+	font-size: 50px;
+	color: white;
+}
+
+a {
+	font-size: 16px;
+	color: aquamarine
+}
 
 
 /*main*/
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+p {
+	font-size: 21px;
+	color: grey;
+
+}
